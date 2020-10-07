@@ -6,5 +6,6 @@ namespace ConsoleApp1
 {
     class test
     {
+        public string fType { get; set; }
     }
 }
